@@ -5,3 +5,4 @@ Adding text to file 1.  This will be committed to Version 2
 Create Branch MyBranch-1.  F1.txt changed in Branch-1
 
 
+Adding from master
