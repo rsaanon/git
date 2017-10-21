@@ -1,1 +1,3 @@
 Original File 1
+
+Adding text to file 1.  This will be committed to Version 2
